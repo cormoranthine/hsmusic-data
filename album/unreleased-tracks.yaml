@@ -1154,14 +1154,14 @@ Duration: '1:25'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/welcome-to-night-vasterror
 ---
-Track: 'beatriz (Secily's Theme)'
+Track: "beatriz (Secily's Theme)"
 Artists:
 - Kate Mitchell
 Duration: '2:49'
 URLs:
 - https://soundcloud.com/gamblignant8/beatriz-secilys-theme
 ---
-Track: 'pessimistic duelist (Secily's Combat Theme)'
+Track: "pessimistic duelist (Secily's Combat Theme)"
 Artists:
 - Kate Mitchell
 Duration: '2:21'
@@ -1224,7 +1224,7 @@ Duration: '4:21'
 URLs:
 - https://soundcloud.com/jamesroachmusic/there-shall-be-no-peace-while-james-roach-haunts-these-halls
 ---
-Track: 'Heathen (An Evening with Criss Angel's Gay Cousin)'
+Track: "Heathen (An Evening with Criss Angel's Gay Cousin)"
 Artists:
 - pragmaticNihilist
 URLs:
@@ -1279,19 +1279,6 @@ Duration: '2:30'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/tinyurlcom_slash_y48fbov8
 ---
-Track: The Black Depths
-Artists:
-- Kate Mitchell
-Duration: '4:30'
-# no URL, only reuploaders
----
-Track: Refutation
-Artists:
-- Viridian
-Duration: '3:11'
-URLs:
-- https://soundcloud.com/viridian01/refutation
----
 Track: Don't Shake The Hand Unless You Mean It
 Artists:
 - pragmaticNihilist
@@ -1314,12 +1301,6 @@ Artists:
 Duration: '2:53'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/for-me-its-always-like-this
----
-Track: Corporate
-Artists:
-- Moonsweater
-Duration: '2:51'
-# no URL
 ---
 Track: I ADMIT IT, I DON'T KNOW HOW KING CRIMSON WORKS!! HE ERASES TIME BUT WHAT DOES THAT MEAN?! IF YOU ERASE TIME THEN SHOULDN'T HE NOT BE THERE?! WHAT DOES THAT MEAN- WHAT DOES HE MEAN HE ERASES TIME?!
 Artists:
@@ -1364,7 +1345,7 @@ Artists:
 Duration: '0:38'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/ahlina
-Tracks Referenced:
+Referenced Tracks:
 - Welcome To Night Vasterror
 ---
 Track: thank you captain valken david
