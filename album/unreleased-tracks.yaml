@@ -1154,14 +1154,14 @@ Duration: '1:25'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/welcome-to-night-vasterror
 ---
-Track: beatriz (Secily's Theme)
+Track: 'beatriz (Secily's Theme)'
 Artists:
 - Kate Mitchell
 Duration: '2:49'
 URLs:
 - https://soundcloud.com/gamblignant8/beatriz-secilys-theme
 ---
-Track: pessimistic duelist (Secily's Combat Theme)
+Track: 'pessimistic duelist (Secily's Combat Theme)'
 Artists:
 - Kate Mitchell
 Duration: '2:21'
@@ -1203,7 +1203,14 @@ Duration: '2:08'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/you-act-like-you-never
 ---
-Track: x marks the corn
+Track: the wizard of oz is an isekai if u think about it
+Artists:
+- James Roach
+Duration: '4:03'
+URLs:
+- https://soundcloud.com/jamesroachmusic/the-wizard-of-oz-is-an-isekai-if-u-think-about-it
+---
+Track: x marks the field
 Artists:
 - Kate Mitchell
 Duration: '1:43'
@@ -1217,25 +1224,18 @@ Duration: '4:21'
 URLs:
 - https://soundcloud.com/jamesroachmusic/there-shall-be-no-peace-while-james-roach-haunts-these-halls
 ---
-Track: the wizard of oz is an isekai if u think about it
+Track: 'Heathen (An Evening with Criss Angel's Gay Cousin)'
 Artists:
-- James Roach
-Duration: '4:03'
+- pragmaticNihilist
 URLs:
-- https://soundcloud.com/jamesroachmusic/the-wizard-of-oz-is-an-isekai-if-u-think-about-it
+- https://soundcloud.com/pragmaticnihilist/heathen-an-evening-with-chris
 ---
-Track: Aeh... Geu Lageune... (Damn Fish, You Live Like This?)
+Track: 'Aeh... Geu Lageune... (Damn Fish, You Live Like This?)'
 Artists:
 - pragmaticNihilist
 Duration: '2:16'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/oricka
----
-Track: Heathen (An Evening with Criss Angel's Gay Cousin)
-Artists:
-- pragmaticNihilist
-URLs:
-- https://soundcloud.com/pragmaticnihilist/heathen-an-evening-with-chris
 ---
 Track: Dr. Horrible's Sing-Along Ethics Violation
 Artists:
@@ -1279,6 +1279,12 @@ Duration: '2:30'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/tinyurlcom_slash_y48fbov8
 ---
+Track: The Black Depths
+Artists:
+- Kate Mitchell
+Duration: '4:30'
+# no URL, only reuploaders
+---
 Track: Refutation
 Artists:
 - Viridian
@@ -1302,12 +1308,18 @@ URLs:
 Referenced Tracks:
 - Don't Shake The Hand Unless You Mean It
 ---
-Track: for me, it's always like this (SBB volume 8)
+Track: for me, its always like this
 Artists:
 - pragmaticNihilist
 Duration: '2:53'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/for-me-its-always-like-this
+---
+Track: Corporate
+Artists:
+- Moonsweater
+Duration: '2:51'
+# no URL
 ---
 Track: I ADMIT IT, I DON'T KNOW HOW KING CRIMSON WORKS!! HE ERASES TIME BUT WHAT DOES THAT MEAN?! IF YOU ERASE TIME THEN SHOULDN'T HE NOT BE THERE?! WHAT DOES THAT MEAN- WHAT DOES HE MEAN HE ERASES TIME?!
 Artists:
@@ -1315,7 +1327,9 @@ Artists:
 Duration: '2:34'
 URLs:
 - https://soundcloud.com/splitsuns/sabines_theme
-# samples Mandark laugh (from Dexter's Laboratory) and "Hey, you! Do you know what kind of train this is?" (from The Polar Express)
+Referenced Tracks:
+- Mandark's Laugh
+- The Polar Express
 ---
 Track: Raison D'ohtre
 Artists:
@@ -1330,19 +1344,19 @@ Artists:
 Duration: '2:32'
 # no URL, only reuploaders
 ---
-Track: No Cops At Pride
-Artists:
-- pragmaticNihilist
-Duration: '2:10'
-URLs:
-- https://soundcloud.com/pragmaticnihilist/no-cops-at-pride
----
 Track: Executive Decisions
 Artists:
 - pragmaticNihilist
 Duration: '2:58'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/executive-decisions
+---
+Track: No Cops At Pride
+Artists:
+- pragmaticNihilist
+Duration: '2:10'
+URLs:
+- https://soundcloud.com/pragmaticnihilist/no-cops-at-pride
 ---
 Track: Ahlina
 Artists:
@@ -1381,13 +1395,6 @@ Duration: '2:44'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/the-sound-of-1-000-mosquitoes
 ---
-Track: '[No ex i  t   .]'
-Artists:
-- Veritas Unae
-Duration: '2:45'
-URLs:
-- https://soundcloud.com/veritasunae/no-ex-i-t
----
 Track: yeshin plays this on a boombox outside secily's hive at 4 in the morning
 Artists:
 - Kate Mitchell
@@ -1400,25 +1407,6 @@ Artists:
 Duration: '3:47'
 # no URL, only reuploaders
 ---
-# from here down the playlist i found doesn't have them in order
-Track: Beyond the Wall (Intermission)
-Artists:
-- Kurtis Burton
-# duration
-# no URL
----
-Track: Corporate
-Artists:
-- Moonsweater
-Duration: '2:51'
-# no URL
----
-Track: Nothing Special
-Artists:
-- Cristata
-# duration
-# no URL
----
 Track: deadly beloathed
 Artists:
 - Cristata
@@ -1428,21 +1416,24 @@ Duration: '2:54'
 Track: Checkmate 6 Romeo
 Artists:
 - Cristata
-# duration
+Duration: '2:44'
 # no URL
 ---
 Track: very normal and healthy troll "familial" relationships
 Artists:
 - Cristata
-# duration
+Duration: '3:00'
 # no URL
+---
+Track: '[No ex i  t   .]'
+Artists:
+- Veritas Unae
+Duration: '2:45'
+URLs:
+- https://soundcloud.com/veritasunae/no-ex-i-t
 ---
 Track: You Aren't The Only One Cursed With Knowledge
 Artists:
 - Kal-la-kal-la
 Duration: '3:24'
 # no URL
-
-# unknown title (vol 12): Ron M
-# unknown title (vol 12): Heather (not Sparaze)
-# unaccounted for: Seinru's theme, Talald's theme, one is Weird Al's theme
