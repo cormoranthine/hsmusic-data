@@ -1150,6 +1150,12 @@ Section: Tracks featured in Snowbound Blood
 Track: Welcome To Night Vasterror
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Sestro
+- Hamifi
+Cover Art File Extension: jpg
 Duration: '1:25'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/welcome-to-night-vasterror
@@ -1157,6 +1163,11 @@ URLs:
 Track: "beatriz (Secily's Theme)"
 Artists:
 - Kate Mitchell
+Cover Artists:
+- tempest2k (edits for wiki)
+Art Tags:
+- Secily
+Cover Art File Extension: png
 Duration: '2:49'
 URLs:
 - https://soundcloud.com/gamblignant8/beatriz-secilys-theme
@@ -1164,6 +1175,11 @@ URLs:
 Track: "pessimistic duelist (Secily's Combat Theme)"
 Artists:
 - Kate Mitchell
+Cover Artists:
+- tempest2k (edits for wiki)
+Art Tags:
+- Secily
+Cover Art File Extension: png
 Duration: '2:21'
 URLs:
 - https://soundcloud.com/gamblignant8/pessimistic-duelist-secilys
@@ -1171,6 +1187,11 @@ URLs:
 Track: Kid Business
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- tempest2k (edits for wiki)
+Art Tags:
+- Sestro
+Cover Art File Extension: png
 Duration: '2:07'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/kid-business
@@ -1178,6 +1199,11 @@ URLs:
 Track: Shh! The Adults Are Talking
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Hamifi
+Cover Art File Extension: jpg
 Duration: '2:00'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/shh-the-adults-are-talking
@@ -1185,6 +1211,11 @@ URLs:
 Track: Total Recall
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Secily
+Cover Art File Extension: png
 Duration: '3:04'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/total-recall
@@ -1192,6 +1223,11 @@ URLs:
 Track: Sirage You're Not Gonna Believe This
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Rypite
+Cover Art File Extension: png
 Duration: '2:08'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/sirage-youre-not-gonna-believe
@@ -1199,6 +1235,11 @@ URLs:
 Track: You Act Like You Never Answered A Boot Before
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Sirage
+Cover Art File Extension: png
 Duration: '2:08'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/you-act-like-you-never
@@ -1206,6 +1247,11 @@ URLs:
 Track: the wizard of oz is an isekai if u think about it
 Artists:
 - James Roach
+Cover Artists:
+- tempest2k (edits for wiki)
+Art Tags:
+- Bytcon
+Cover Art File Extension: png
 Duration: '4:03'
 URLs:
 - https://soundcloud.com/jamesroachmusic/the-wizard-of-oz-is-an-isekai-if-u-think-about-it
@@ -1213,6 +1259,9 @@ URLs:
 Track: x marks the field
 Artists:
 - Kate Mitchell
+Cover Artists:
+- tempest2k (edits for wiki)
+Cover Art File Extension: png
 Duration: '1:43'
 URLs:
 - https://soundcloud.com/gamblignant8/x-marks-the-corn
@@ -1233,6 +1282,11 @@ URLs:
 Track: 'Aeh... Geu Lageune... (Damn Fish, You Live Like This?)'
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- tempest2k (edits for wiki)
+Art Tags:
+- Oricka
+Cover Art File Extension: png
 Duration: '2:16'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/oricka
@@ -1240,6 +1294,11 @@ URLs:
 Track: Dr. Horrible's Sing-Along Ethics Violation
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Occeus
+Cover Art File Extension: jpg
 Duration: '3:22'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/dr-horribles-sing-along-ethics-violation
@@ -1247,6 +1306,11 @@ URLs:
 Track: mshiri dearest
 Artists:
 - Kate Mitchell
+Cover Artists:
+- Xamag
+Art Tags:
+- Mshiri
+Cover Art File Extension: jpg
 Duration: '3:15'
 URLs:
 - https://soundcloud.com/gamblignant8/mshiri-dearest
@@ -1261,6 +1325,7 @@ URLs:
 Track: yeshin, somehow irresistible
 Artists:
 - Kate Mitchell
+Cover Art File Extension: jpg
 Duration: '1:05'
 URLs:
 - https://soundcloud.com/gamblignant8/yeshin-somehow-irresistible
@@ -1268,13 +1333,24 @@ URLs:
 Track: Potion Seller. Enough Of These Games
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Cadlys
+Cover Art File Extension: png
 Duration: '2:29'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/potion-seller-enough-of-these
 ---
 Track: tinyurl.com_slash_y48fbov8
+Directory: tinyurl-dot-com-slash-y48fbov8
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Necron
+Cover Art File Extension: jpg
 Duration: '2:30'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/tinyurlcom_slash_y48fbov8
@@ -1282,6 +1358,12 @@ URLs:
 Track: Don't Shake The Hand Unless You Mean It
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Secily
+- Gerbat
+Cover Art File Extension: jpg
 Duration: '2:37'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/dont-shake-the-hand-unless-you-mean-it
@@ -1289,6 +1371,11 @@ URLs:
 Track: You've Opened The Door.
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Cretas
+Cover Art File Extension: jpg
 Duration: '1:27'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/youve-opened-the-door
@@ -1298,6 +1385,11 @@ Referenced Tracks:
 Track: for me, its always like this
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Valtel
+Cover Art File Extension: jpg
 Duration: '2:53'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/for-me-its-always-like-this
@@ -1306,6 +1398,11 @@ Track: I ADMIT IT, I DON'T KNOW HOW KING CRIMSON WORKS!! HE ERASES TIME BUT WHAT
 Directory: i-admit-it-i-dont-know-how-king-crimson-works
 Artists:
 - SplitSuns
+Cover Artists:
+- Xamag
+Art Tags:
+- Sabine
+Cover Art File Extension: jpg
 Duration: '2:34'
 URLs:
 - https://soundcloud.com/splitsuns/sabines_theme
@@ -1316,6 +1413,11 @@ Sampled Tracks:
 Track: Raison D'ohtre
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Glomer
+Cover Art File Extension: jpg
 Duration: '3:18'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/raison-dohtre
@@ -1336,6 +1438,11 @@ URLs:
 Track: No Cops At Pride
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Cinare
+Cover Art File Extension: jpg
 Duration: '2:10'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/no-cops-at-pride
@@ -1352,6 +1459,11 @@ Referenced Tracks:
 Track: thank you captain valken david
 Artists:
 - SplitSuns
+Cover Artists:
+- Xamag
+Art Tags:
+- Crytum
+Cover Art File Extension: jpg
 Duration: '2:56'
 URLs:
 - https://soundcloud.com/splitsuns/crytums_theme
@@ -1373,6 +1485,11 @@ URLs:
 Track: the sound of 1,000 mosquitoes inhabiting the corpse of James Bond
 Artists:
 - pragmaticNihilist
+Cover Artists:
+- Xamag
+Art Tags:
+- Hayyan
+Cover Art File Extension: jpg
 Duration: '2:44'
 URLs:
 - https://soundcloud.com/pragmaticnihilist/the-sound-of-1-000-mosquitoes
